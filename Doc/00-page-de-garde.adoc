@@ -1,8 +1,4 @@
-:toc:
-:toc: left
 :imagesdir: ./images 
-
-
 
 [.text-center]
 [.lead]
@@ -10,8 +6,6 @@
 
 [.text-center] 
 [navy]#Master M2 S2I#
-
-
 
 [.text-center] 
 [big navy]#Maître de Stage : Boris DOLLEY#
